@@ -3,7 +3,8 @@ A concept application for a non-profit that focuses on cleaning our waterways.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](images/open-sea-screen1.png)
+![alt tag](images/open-sea-screen2.png)
 
 ## How It's Made:
 
