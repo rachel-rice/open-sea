@@ -1,7 +1,7 @@
 # Open Sea
 A concept application for a non-profit that focuses on cleaning our waterways.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://opensea-marinelife.netlify.app/
 
 ![alt tag](images/open-sea-screen1.png)
 ![alt tag](images/open-sea-screen2.png)
