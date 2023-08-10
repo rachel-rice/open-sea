@@ -10,7 +10,7 @@ A concept application for a non-profit that focuses on cleaning our waterways.
 
 **Tech used:** HTML, SCSS, CSS, JavaScript
 
-Built with a template. I took the template and inputted and edited it as needed for Open Sea.
+Modified off a template by HTML5up.net.
 
 
 ## Lessons Learned:
